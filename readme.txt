@@ -1,0 +1,1 @@
+This is plugin to make autologin to wordpress 
